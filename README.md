@@ -149,12 +149,7 @@ Simple Articles Subscribe App is a modern mobile-first React H5 application desi
 | Build Tool | Create React App + react-app-rewired |
 | PostCSS Plugin | postcss-px-to-viewport 1.1.1 |
 
-GLM 4.6
 
-用户希望我为当前项目（Simple-MD-Editor---use-React-and-ELectron）撰写一个类似示例的英文 README，以 Markdown 代码块形式返回。为避免幻觉并确保与仓库一致，我需要先查看 README.md、package.json 与关键文件以提取真实信息（功能、依赖、构建方式），然后在不违反规则的前提下输出。
-下面是为你这个项目撰写的英文 README Markdown（放在代码块里）。内容基于仓库的真实信息与结构整理，尽量对齐你提供的示例风格：
-
-Copy code
 # Simple Markdown Editor - React + Electron
  
 ## 📌 Project Overview
