@@ -151,3 +151,33 @@ Simple Markdown Editor is a desktop markdown editing application built with Reac
 | Build Tool | Electron + React build scripts |
 | Persistence | electronStore (utils/electronStore.js) |
 | Menu System | Application menu (temp/menuTemp.js) |
+
+# Articles Management Web - React
+
+## 📌 Project Overview
+
+Articles Management Web is a modern content management system frontend that supports article creation, publishing, channel management, and rich text editing. It adopts a component-based architecture with React 19 and implements advanced patterns for state management and component communication.
+
+## ✨ Core Features
+
+- 🔐 **Secure Authentication** – Token-based user session management with automatic expiration handling
+- 📝 **Rich Text Editing** – Advanced WYSIWYG editor with React Quill integration for content creation
+- 📊 **Article Management** – Complete CRUD operations with filtering, pagination, and status management
+- 💾 **Draft System** – Auto-save and draft management for uninterrupted content creation
+- 📢 **Event-Driven Architecture** – Component communication via centralized event bus pattern
+- 🖼 **Image Upload** – Upload with preview, validation, and progress tracking
+
+## 🛠 Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| Frontend Framework | React 19.1.0 |
+| UI Library | Ant Design 5.25.1 |
+| Routing | React Router v7.6.0 |
+| HTTP Client | Axios 1.9.0 |
+| Rich Text Editor | React Quill 3.4.6 |
+| Event Bus | Mitt 3.0.1 |
+| Date Handling | Day.js 1.11.13 |
+| History Management | History 5.3.0 |
+| Build Tool | React Scripts 5.0.1 |
+| Styling | Sass 1.88.0 |
