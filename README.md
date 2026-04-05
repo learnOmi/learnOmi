@@ -119,36 +119,6 @@ Simple Articles Subscribe App is a modern mobile-first React H5 application desi
 | Build Tool | Create React App + react-app-rewired |
 | PostCSS Plugin | postcss-px-to-viewport 1.1.1 |
 
-# Simple Articles Subscribe App - React H5
- 
-## 📌 Project Overview
- 
-Simple Articles Subscribe App is a modern mobile-first React H5 application designed for article browsing and subscription management. It provides users with a seamless content consumption experience with infinite scrolling, pull-to-refresh, and personalized channel subscriptions. Built with performance and user experience in mind.
- 
-## ✨ Core Features
- 
-- 🔐 **Secure Authentication** - Token-based authentication with automatic token refresh and protected routes
-- 📰 **Article Subscription** - Channel management with customizable subscriptions and infinite scrolling
-- 🔄 **Real-time Updates** - Pull-to-refresh functionality for keeping content fresh
-- 📱 **Mobile-First Design** - Responsive H5 interface optimized for touch interactions
-- 📊 **State Management** - Centralized Redux store with async actions and reducers
-- 🎨 **Modern UI** - Clean interface powered by Ant Design Mobile components
-- ⚡ **Performance** - Lazy loading with code splitting for optimized bundle size
- 
-## 🛠 Tech Stack
- 
-| Category | Technology |
-|----------|------------|
-| Frontend Framework | React 19.1.0 |
-| State Management | Redux Toolkit 2.8.2 |
-| Routing | React Router DOM 7.6.2 |
-| UI Components | Ant Design Mobile 5.39.0 |
-| HTTP Client | Axios 1.10.0 |
-| Form Handling | Formik 2.4.6 + Yup 1.6.1 |
-| Styling | SCSS 1.89.2 |
-| Build Tool | Create React App + react-app-rewired |
-| PostCSS Plugin | postcss-px-to-viewport 1.1.1 |
-
 
 # Simple Markdown Editor - React + Electron
  
