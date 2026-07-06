@@ -1,183 +1,129 @@
-## Welcome! This is Tong. 👋
- Down below are my main personal projects, you can find them in my public respositories:
+# 👋 Hi there, I'm Tong
 
-# EasyChat Backend - SpringBoot
- 
-## 📌 Project Overview
- 
-EasyChat is a modern instant messaging system backend that supports private chat, group chat, file transfer, and other features. It adopts a distributed architecture design with high concurrency processing capabilities.
- 
-## ✨ Core Features
- 
-- 🔐 **Secure Authentication** - Token-based user session management with custom annotation interceptors
-- 💬 **Real-time Communication** - High-performance bidirectional communication via Netty WebSocket
-- 📢 **Message Distribution** - Cluster message synchronization via Redis Pub/Sub
-- 👥 **Social Features** - Friend management, group creation, and lifecycle management
-- 📁 **File Service** - Support for file upload and download
-- ⚡ **High Performance** - Async processing with Redis cache optimization
- 
-## 🛠 Tech Stack
- 
-| Category | Technology |
-|----------|------------|
-| Backend Framework | Spring Boot 2.7.x |
-| Communication Framework | Netty 4.1.x (WebSocket) |
-| Database | MySQL 8.0+ |
-| Cache | Redis 6.x |
-| ORM Framework | MyBatis 3.5.x |
-| Build Tool | Maven |
- 
-# EasyChat Frontend - Vue + Electron
- 
-## 📌 Project Overview
- 
-EasyChat is a modern cross-platform desktop instant messaging client built with Electron and Vue 3. It provides a native desktop experience for private chat, group chat, file transfer, and other features, with local data persistence and real-time communication capabilities.
- 
-## ✨ Core Features
- 
-- 🔐 **Secure Authentication** - Token-based user session management with login/registration flow
-- 💬 **Real-time Communication** - Instant messaging via WebSocket client with message synchronization
-- 👥 **Session Management** - Support for private chat and group chat sessions with message history
-- 🗃️ **Local Persistence** - SQLite database for offline message storage and user data caching
-- 📁 **File Service** - Built-in local file server for file upload/download and media handling
-- 🎨 **Modern UI** - Beautiful interface powered by Element Plus with custom themes
-- 🪟 **Multi-window System** - Advanced window management for chat, admin panel, and more
-- 🔄 **State Management** - Centralized state with Pinia for reactive data flow
-- ⚡ **High Performance** - Optimized build with Vite and HMR for rapid development
- 
-## 🛠 Tech Stack
- 
-| Category | Technology |
-|----------|------------|
-| Desktop Framework | Electron 37.2.x |
-| Frontend Framework | Vue 3.5.x |
-| Build Tool | Electron Vite 4.0.x + Vite 7.x |
-| State Management | Pinia 3.0.x |
-| Routing | Vue Router 4.5.x |
-| UI Framework | Element Plus 2.11.x |
-| Local Database | SQLite3 5.1.x |
-| WebSocket Client | ws 8.19.x |
-| HTTP Client | Axios 1.12.x |
-| Language Support | JavaScript + SASS/SCSS |
-| Package Manager | npm / electron-builder |
+<div align="center">
 
-# MybatisAutoMapper - MyBatis Auto Code Generator
- 
-## 📌 Project Overview
- 
-MybatisAutoMapper is an intelligent MyBatis automatic code generation tool that can generate complete layered architecture code based on database table structures. Through template engine and configurable design, it provides developers with an efficient code generation solution, significantly improving development efficiency.
- 
-## ✨ Core Features
- 
-- 🗄️ **Metadata Extraction** - Automatically reads database table structures, field types, indexes, and key information
-- 🎯 **Multi-tier Generation** - One-click generation of PO, Query, Mapper, Service, Controller complete code
-- 🏗️ **Architecture Templates** - Built-in base classes and utility templates providing out-of-the-box code architecture
-- ⚙️ **Flexible Configuration** - Supports custom package names, suffixes, annotations, and output paths
-- 📝 **Dynamic SQL** - Automatically generates Mapper XML with complex query conditions
-- 🎨 **Type Mapping** - Intelligent database type to Java type mapping strategy
-- 🔍 **Index Detection** - Automatically identifies primary keys, foreign keys, and unique indexes
- 
-## 🛠 Tech Stack
- 
-| Category | Technology |
-|----------|------------|
-| Development Language | Java 21 |
-| Build Tool | Maven |
-| Database Support | MySQL 8.0+ |
-| Core Dependencies | MyBatis 3.0.5, Spring Boot 3.2.0 |
-| Utility Library | Apache Commons Lang 3.12.0 |
-| Logging Framework | SLF4J 2.0.17 + Logback 1.4.7 |
-| JSON Processing | Fastjson 2.0.58 |
+![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=learnOmi&show_icons=true&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=learnOmi&layout=compact&theme=radical&hide_border=true)](https://github.com/learnOmi?tab=repositories)
 
-# Simple Articles Subscribe App - React H5
- 
-## 📌 Project Overview
- 
-Simple Articles Subscribe App is a modern mobile-first React H5 application designed for article browsing and subscription management. It provides users with a seamless content consumption experience with infinite scrolling, pull-to-refresh, and personalized channel subscriptions.
- 
-## ✨ Core Features
- 
-- 🔐 **Secure Authentication** - Token-based authentication with automatic token refresh and protected routes
-- 📰 **Article Subscription** - Channel management with customizable subscriptions and infinite scrolling
-- 🔄 **Real-time Updates** - Pull-to-refresh functionality for keeping content fresh
-- 📱 **Mobile-First Design** - Responsive H5 interface optimized for touch interactions
-- 📊 **State Management** - Centralized Redux store with async actions and reducers
-- 🎨 **Modern UI** - Clean interface powered by Ant Design Mobile components
-- ⚡ **Performance** - Lazy loading with code splitting for optimized bundle size
- 
-## 🛠 Tech Stack
- 
-| Category | Technology |
-|----------|------------|
-| Frontend Framework | React 19.1.0 |
-| State Management | Redux Toolkit 2.8.2 |
-| Routing | React Router DOM 7.6.2 |
-| UI Components | Ant Design Mobile 5.39.0 |
-| HTTP Client | Axios 1.10.0 |
-| Form Handling | Formik 2.4.6 + Yup 1.6.1 |
-| Styling | SCSS 1.89.2 |
-| Build Tool | Create React App + react-app-rewired |
-| PostCSS Plugin | postcss-px-to-viewport 1.1.1 |
+</div>
 
+---
 
-# Simple Markdown Editor - React + Electron
- 
-## 📌 Project Overview
- 
-Simple Markdown Editor is a desktop markdown editing application built with React and Electron. It combines the modern web capabilities of React with Electron’s cross‑platform desktop runtime, providing a clean, performant editing experience with file management, tabs, search, and persistent storage.
- 
-## ✨ Core Features
- 
-- 📝 **Markdown Editing** - A modern editor built on SimpleMDE for live preview and syntax highlighting
-- 📑 **Tab Management** - Open and manage multiple files in tabs with quick switching
-- 📁 **File Operations** - Create, rename, delete, and organize markdown files
-- 🔍 **Search Files** - Fast file search to quickly locate and open files
-- 💾 **Auto‑Save & Persistence** - Automatic saving with electronStore for state persistence
-- ⌨️ **Keyboard Shortcuts** - Efficient navigation and actions via configurable shortcuts
-- 🖱️ **Context Menu** - Right‑click context menus for file operations
-- 🔄 **IPC Communication** - Secure main‑renderer communication via preload script
-- 📦 **Cross‑Platform** - Packaged desktop app for Windows, macOS, and Linux
- 
-## 🛠 Tech Stack
- 
-| Category | Technology |
-|----------|------------|
-| Frontend Framework | React (create-react-app) |
-| Desktop Runtime | Electron |
-| State Management | Redux (store.js) |
-| IPC & Bridge | preload.js (contextBridge) |
-| Markdown Editor | SimpleMDE (via integration) |
-| Styling | CSS (App.css, index.css) |
-| Build Tool | Electron + React build scripts |
-| Persistence | electronStore (utils/electronStore.js) |
-| Menu System | Application menu (temp/menuTemp.js) |
+## 🎯 About Me
 
-# Articles Management Web - React
+> **Full-Stack Developer** passionate about building elegant solutions to complex problems.
 
-## 📌 Project Overview
+I specialize in **Java backend development**, **Vue/React frontend engineering**, and **AI-powered applications**. With 10+ production-ready projects spanning from enterprise management systems to cutting-edge AI chatbots, I bring ideas from concept to deployment.
 
-Articles Management Web is a modern content management system frontend that supports article creation, publishing, channel management, and rich text editing. It adopts a component-based architecture with React 19 and implements advanced patterns for state management and component communication.
+**Core Competencies:**
+- 🏗️ **Backend Architecture** — Spring Boot microservices, Netty high-performance networking, Redis distributed systems
+- 🎨 **Frontend Engineering** — Vue 3, React 19, Electron desktop apps, responsive design
+- 🤖 **AI/ML Integration** — Spring AI, RAG pipelines, Multi-Agent coordination, LLM fine-tuning
+- 🛠️ **DevOps & Tools** — Docker, CI/CD, code generators, automated testing
 
-## ✨ Core Features
+---
 
-- 🔐 **Secure Authentication** – Token-based user session management with automatic expiration handling
-- 📝 **Rich Text Editing** – Advanced WYSIWYG editor with React Quill integration for content creation
-- 📊 **Article Management** – Complete CRUD operations with filtering, pagination, and status management
-- 💾 **Draft System** – Auto-save and draft management for uninterrupted content creation
-- 📢 **Event-Driven Architecture** – Component communication via centralized event bus pattern
-- 🖼 **Image Upload** – Upload with preview, validation, and progress tracking
+## 🚀 Featured Projects
 
-## 🛠 Tech Stack
+### 🏥 Enterprise Management Systems
 
-| Category | Technology |
-|----------|------------|
-| Frontend Framework | React 19.1.0 |
-| UI Library | Ant Design 5.25.1 |
-| Routing | React Router v7.6.0 |
-| HTTP Client | Axios 1.9.0 |
-| Rich Text Editor | React Quill 3.4.6 |
-| Event Bus | Mitt 3.0.1 |
-| Date Handling | Day.js 1.11.13 |
-| History Management | History 5.3.0 |
-| Build Tool | React Scripts 5.0.1 |
-| Styling | Sass 1.88.0 |
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **[智慧养老管理平台](https://github.com/learnOmi/ElderlyCare-ManagementSystem-Backend)** | Spring Boot 2.5, Vue 3, MyBatis, Redis | 50+ DB tables, multi-module Maven, RuoYi framework customization, 10-table JOIN queries, code generator |
+| **[Tlias 培训管理系统](https://github.com/learnOmi/Tlias-web-management-Backend)** | Spring Boot 4.0, JWT, AOP, MySQL | JWT dual-auth, ThreadLocal context, AOP audit logging, employee lifecycle management |
+
+### 💬 Real-Time Communication
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **[EasyChat 即时通讯](https://github.com/learnOmi/EasyChat-backend--Java-SpringBoot)** | Spring Boot 3.2, Netty, Redis Pub/Sub | Netty NIO WebSocket, Redis distributed messaging, multi-node scalability |
+| **[EasyChat 桌面应用](https://github.com/learnOmi/EasyChat-frontend---Vue-Electron)** | Electron, Vue 3, SQLite, Pinia | Cross-platform desktop app, IPC communication, offline-first architecture, video streaming |
+
+### 🤖 AI & Emerging Tech
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **[ChatBot-SpringAI](https://github.com/learnOmi/ChatBot-SpringAI)** | Spring Boot 3.5, Spring AI, Ollama, React | RAG pipeline, Self-healing advisors, Multi-Agent coordination, streaming chat, multimodal AI |
+
+### 🛠️ Developer Tools
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **[MybatisAutoMapper](https://github.com/learnOmi/MybatisAutoMapper)** | JDK 21, MyBatis, JDBC | Zero-template code generator, JDBC metadata extraction, Builder pattern, type mapping |
+
+### 📱 Web Applications
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **[文章订阅 H5](https://github.com/learnOmi/Simple-Articles-Subscribe-App---H5-react)** | React 19, Redux Toolkit, Ant Design Mobile | Token auto-refresh, infinite scroll, pull-to-refresh, SPA routing |
+| **[文章管理后台](https://github.com/learnOmi/Articles-Management-Web---react-basic)** | React 19, Ant Design 5, mitt | Event bus architecture, article workflow, rich text editor, hookWrapper HOC |
+
+---
+
+## 📊 Technology Stack
+
+### Backend Development
+
+```
+Spring Boot │ MyBatis │ Netty │ Redis │ PostgreSQL │ MySQL │ JWT │ Spring Security │ Quartz │ Docker
+```
+
+### Frontend Development
+
+```
+Vue 3 │ React 19 │ Electron │ TypeScript │ Pinia │ Zustand │ Element Plus │ Ant Design │ ECharts
+```
+
+### AI & Machine Learning
+
+```
+Spring AI │ Ollama │ pgvector │ RAG │ Multi-Agent │ LLM Integration │ Embedding Models
+```
+
+### DevOps & Tools
+
+```
+Git │ Maven │ Vite │ ESLint │ Prettier │ FFmpeg │ SQLite │ Express │ Docker Compose
+```
+
+---
+
+## 📈 Project Statistics
+
+| Category | Count | Projects |
+|----------|-------|----------|
+| **Backend Systems** | 4 | 养老管理, Tlias, EasyChat, MybatisAutoMapper |
+| **Frontend Apps** | 5 | 养老管理前端, Tlias前端, EasyChat Electron, 文章订阅H5, 文章管理Web |
+| **AI/ML Projects** | 1 | ChatBot-SpringAI |
+| **Total Repos** | 10+ | Full-stack portfolio |
+
+---
+
+## 💡 What I'm Working On
+
+- 🔭 Building more AI-powered applications with Spring AI and LLMs
+- 🌱 Exploring microservices architecture patterns with Spring Cloud
+- 📖 Writing technical articles about system design and best practices
+- 🎯 Contributing to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/learnOmi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c1427275295@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tong-xie-272477336)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you find my projects interesting, please star this repository!**
+
+*Made with ❤️ and lots of ☕*
+
+</div>
