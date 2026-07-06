@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=learnOmi&show_icons=true&theme=radical&hide_border=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=learnOmi&layout=compact&theme=radical&hide_border=true)](https://github.com/learnOmi?tab=repositories)
+![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=Tong&show_icons=true&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tong&layout=compact&theme=radical&hide_border=true)](https://github.com/learnOmi?tab=repositories)
 
 </div>
 
